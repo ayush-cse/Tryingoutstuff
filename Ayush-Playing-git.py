@@ -5,3 +5,5 @@ print("Om Namah Shivay")
 print("Hello I am Ayush")
 for i in range(10):
     print('AyusH is great in everything he tries.')
+
+print("Ayush Is Learning Developement")
